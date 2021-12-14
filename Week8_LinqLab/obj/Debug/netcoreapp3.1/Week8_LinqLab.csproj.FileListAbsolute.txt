@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.AssemblyInfo.cs
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\bin\Debug\netcoreapp3.1\Week8_LinqLab.exe
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\bin\Debug\netcoreapp3.1\Week8_LinqLab.deps.json
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\bin\Debug\netcoreapp3.1\Week8_LinqLab.runtimeconfig.json
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\bin\Debug\netcoreapp3.1\Week8_LinqLab.runtimeconfig.dev.json
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\bin\Debug\netcoreapp3.1\Week8_LinqLab.dll
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\bin\Debug\netcoreapp3.1\Week8_LinqLab.pdb
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.dll
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.pdb
+C:\Users\CFlynn3\source\repos\Week8_LinqLab\Week8_LinqLab\obj\Debug\netcoreapp3.1\Week8_LinqLab.genruntimeconfig.cache
